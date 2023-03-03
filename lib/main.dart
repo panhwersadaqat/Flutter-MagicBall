@@ -15,7 +15,7 @@ class MainPage extends StatelessWidget {
       home: Scaffold(
         backgroundColor: Colors.blue.shade300,
         appBar: AppBar(
-          title: Text('Dicee'),
+          title: Text('Ask me anything'),
           backgroundColor: Colors.blue,
         ),
         body: ImagePage(),
